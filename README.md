@@ -6,7 +6,7 @@
 
 <div align="center">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=GustavoBonatto&show_icons=true&theme=chartreuse-dark"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBonatto&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+  <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBonatto&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 
 ##
