@@ -4,8 +4,10 @@
 - 👨‍💻 I’m currently learning C
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoBonatto&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBonatto&layout=compact&theme=tokyonight)](https://github.com/GustavoBonatto/github-readme-stats)
+<div align="center">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=GustavoBonatto&show_icons=true&theme=tokyonight"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBonatto&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
 
 ##
 
