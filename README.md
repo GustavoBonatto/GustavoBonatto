@@ -1,7 +1,7 @@
 ## Hello!! I'm Gustavo Bonatto.
 
 - 👨‍🎓 I’m currently studying Computer Science
-- 👨‍💻 I’m currently learning C
+- 👨‍💻 I’m currently learning C, python and c#
 
 
 <div align="center">
